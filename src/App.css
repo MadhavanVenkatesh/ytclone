@@ -23,6 +23,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.my-auto mx-auto{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
 
 .App-link {
   color: #61dafb;
